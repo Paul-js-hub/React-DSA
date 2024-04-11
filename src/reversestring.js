@@ -9,4 +9,4 @@ function reverseString(s){
   return s
 }
 
-console.log(reverseString(['p', 'a', 'u', 'l', 'o']))
+console.log(reverseString(['p', 'a', 'u', 'l']))
