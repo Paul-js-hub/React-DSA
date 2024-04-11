@@ -1,0 +1,1 @@
+A set object is a collection of values. A value in a set may only occur once; it's unique in the Set's collection.
